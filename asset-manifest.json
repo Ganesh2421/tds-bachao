@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tds-bachao/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tds-bachao/static/js/main.67dcaa85.chunk.js",
+    "main.js.map": "/tds-bachao/static/js/main.67dcaa85.chunk.js.map",
+    "runtime-main.js": "/tds-bachao/static/js/runtime-main.2d2e077d.js",
+    "runtime-main.js.map": "/tds-bachao/static/js/runtime-main.2d2e077d.js.map",
+    "static/js/2.bab5dc8e.chunk.js": "/tds-bachao/static/js/2.bab5dc8e.chunk.js",
+    "static/js/2.bab5dc8e.chunk.js.map": "/tds-bachao/static/js/2.bab5dc8e.chunk.js.map",
+    "static/js/3.d8589ca0.chunk.js": "/tds-bachao/static/js/3.d8589ca0.chunk.js",
+    "static/js/3.d8589ca0.chunk.js.map": "/tds-bachao/static/js/3.d8589ca0.chunk.js.map",
+    "index.html": "/tds-bachao/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tds-bachao/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bab5dc8e.chunk.js.LICENSE.txt": "/tds-bachao/static/js/2.bab5dc8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tds-bachao/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d2e077d.js",
+    "static/js/2.bab5dc8e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.67dcaa85.chunk.js"
+  ]
+}

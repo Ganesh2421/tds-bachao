@@ -38,10 +38,10 @@ function Logout(){
     
 async function logout_click(){
     try {
-      console.log("Logout");
+      //console.log("Logout");
 
        logout();
-      history.push("/");
+      history.push("/tdsbachao/");
     } catch(error){
       window.alert(error);
     }

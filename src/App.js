@@ -13,7 +13,7 @@ function App() {
       <Router>
       <AuthProvider>
         <Switch>
-          <Route path='/' exact component={Login} />
+          <Route path='/tdsbachao/' exact component={Login} />
           <Route path='/home' exact component={Home} />
           <Route path='/register_page' component={Register} />
 

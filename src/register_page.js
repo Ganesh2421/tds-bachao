@@ -65,7 +65,7 @@ function Register() {
       //console.log(signup);
 
       await signup(emailRef.current.value, passwordRef.current.value);
-      history.push("/tdsbachao");
+      history.push("/tdsbachao/");
       
     } catch(error){
       setError("Failed to log in")
